@@ -11,7 +11,7 @@
   <keywords>cordova, mixpanel, ios, android</keywords>
 
   <engines>
-    <engine name="cordova" version=">=3.4.0" />
+    <engine name="cordova" version=">=3.0.0" />
   </engines>
 
   <js-module src="www/mixpanel.js" name="Mixpanel">
